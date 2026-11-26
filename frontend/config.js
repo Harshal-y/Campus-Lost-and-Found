@@ -5,5 +5,5 @@
  * Keep this file free of passwords, Supabase service-role keys, and other secrets.
  */
 window.LF_CONFIG = {
-  API_BASE: ""
+  API_BASE: "https://campus-lost-and-found-hby2.onrender.com"
 };
